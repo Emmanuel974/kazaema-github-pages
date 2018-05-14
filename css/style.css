@@ -23,7 +23,7 @@ body
 #footer{
 	background-color: #ffbf00; 
 	padding-top: 3em;
-	padding-bottom: 3em;
+	padding-bottom: 2em;
 }
 #footer a{
 	color: #d8d8d8;
@@ -38,9 +38,10 @@ body
 #wrapper{
 	
 	background-image: url(../images/background/background.jpg);
+	background-position: 50% 75% ;
 	height: 550px;
 	background-size: cover;
-	padding-top: 150px;
+	padding-top: 250px;
 	text-align: center;
 	color: #fff;
 	text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
@@ -52,10 +53,23 @@ body
 	font-size: 20px;
 	padding-bottom:50px;
 }
+
+#wrapper-bottom{
+	background-image: url(../images/deviens-constructeur.jpg);
+	background-position: bottom;
+	background-repeat: no-repeat;
+	height: 450px;
+	background-size: cover;
+	padding-top: 120px;
+	text-align: center;
+	color: #fff;
+	text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+
+}
 .spacer{
 	height: 3em;
 }
-}
+
 .feature p {
 	font-weight: 300;
 	letter-spacing: 1px;
@@ -112,3 +126,12 @@ body
 	padding-bottom: 2em;
 }
 
+#copyright{
+	padding-top: 15px;
+}
+#copyright p{
+	color: #adadad;
+}
+#testimonials{
+	margin-top: 300px;
+}
