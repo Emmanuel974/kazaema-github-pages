@@ -103,8 +103,8 @@ body
 	background-color: #ffeb7a;
 }
 
-#testimonials {
-	background-image: url(../images/europal.jpg);
+.img-testimonials {
+	
 	height: 350px;
 	background-size: cover;
 	padding-top: 100px;
