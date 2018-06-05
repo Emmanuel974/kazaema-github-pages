@@ -135,3 +135,27 @@ body
 #testimonials{
 	margin-top: 300px;
 }
+
+}
+.seller-tesimonials {
+	margin-top: 3em;
+}
+
+
+.seller-img{
+	padding: 1em;
+	padding-left: 500px;
+}
+
+.testi-img{
+	height: 200px;
+
+}
+
+.smart-quote img{
+	height: 100px;
+	padding: 1em;
+}
+.smart-quote{
+	text-align: left;
+}
